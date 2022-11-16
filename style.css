@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#background{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url(Drone_Img/pic.jpeg);
+    background-position: center;
+    background-size: cover;
+}
